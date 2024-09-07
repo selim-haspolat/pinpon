@@ -32,6 +32,11 @@ body {
     color: Black;
     padding: 0 20px;
   }
+
+  h2 {
+    color: Black;
+    padding: 0 20px;
+  }
 }
 
 .player_1 {
@@ -66,6 +71,12 @@ body {
   background-color: rgba(9, 79, 255, 0.8);
 
   h1 {
+    color: Black;
+    text-align: end;
+    padding: 0 20px;
+  }
+  
+  h2 {
     color: Black;
     text-align: end;
     padding: 0 20px;
